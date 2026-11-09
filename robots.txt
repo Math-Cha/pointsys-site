@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.pointsys.fr/sitemap.xml
